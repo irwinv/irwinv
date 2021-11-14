@@ -5,7 +5,7 @@
 - 🔭 I’m currently collaborate with REGISTRESECURITE.COM as Full Stack web developer
 - 🌱 I’m currently learning VueJS & Api Platform
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
-- ⚡ Fun fact: I love to play drum, skate, surf and listen metal music.
+- ⚡ Fun fact: I love to play drum, skate, surf and listen metal music \m/
 
 ### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
@@ -24,6 +24,18 @@
 
 
 [<code>
+<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
+</code>](https://git-scm.com/)
+[<code>
+<img alt="Symfony" width="26px" src="https://img.icons8.com/color/240/000000/symfony.png" />
+</code>](https://www.symfony.com)
+[<code>
+<img alt="vuejs" width="26px" src="https://img.icons8.com/color/240/000000/vue-js.png">
+</code>](https://vuejs.org)
+[<code>
+[<code>
+<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+</code>](https://dev.mysql.com/)
 <img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
 </code>](https://www.jetbrains.com/idea/)
 [<code>
@@ -36,11 +48,8 @@
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<code>
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
-<img alt="vuejs" width="26px" src="https://img.icons8.com/color/240/000000/vue-js.png">
-</code>](https://vuejs.org)
+<img alt="Vuetify" src="https://img.icons8.com/windows/240/000000/vuetify.png"/>
+</code>](https://vuetifyjs.com/)
 [<code>
 <img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
 </code>](https://www.json.org/json-en.html)
@@ -51,22 +60,13 @@
 <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
 [<code>
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
-[<code>
-<img alt="markdown" width="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
-</code>](https://www.markdownguide.org/)
-[<code>
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code>
 <img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
 </code>](https://github.com/)
 [<code>
 <img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>](https://docs.microsoft.com/en-us/windows/terminal/)
 [<code>
-<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
+<img alt="Debian" width="26px" src="https://img.icons8.com/color/240/000000/debian.png"/>
 </code>](https://ubuntu.com/)
 [<code>
 <img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
