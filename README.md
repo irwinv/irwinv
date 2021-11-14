@@ -1,27 +1,13 @@
-### Hi there, I'm Irwuin Villamizar [Irwuin][website] <img src="./Icons/Hi.gif" height="32" />
+### Hi there, I'm Irwuin Villamizar <img src="./Icons/Hi.gif" height="32" />
 
-## I'm a experienced web developer full stack
+## web developer full stack
 
-- 🔭 I’m currently collaborate with REGISTRESECURITE.COM as Full Stack web developer
+- 🔭 I’m currently collaborate with REGISTRESECURITE.COM <img alt="REGISTRESECURITE.COM" height="36px" src="https://www.registresecurite.com/wp-content/uploads/2019/05/logo-1.png" /> as Full Stack web developer
 - 🌱 I’m currently learning VueJS & Api Platform
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 - ⚡ Fun fact: I love to play drum, skate, surf and listen metal music \m/
 
-### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
-
-[<img align="left" alt="Irwuin | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Irwuin | Stackoverflow" height="22px" src="./SocialLogo/StackOverflow.png" />][stackoverflow]
-
-<br />
-
-<p align=center>
-<em>Don't hesitate to get in touch!</em>
-</p>
-
----
-
-### Language§ and Tools:
-
+### Languages & Tools:
 
 [<code>
 <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
@@ -32,11 +18,12 @@
 [<code>
 <img alt="vuejs" width="26px" src="https://img.icons8.com/color/240/000000/vue-js.png">
 </code>](https://vuejs.org)
-[<code>]
-<img alt="MariaDb" src="https://img.icons8.com/fluency/240/000000/maria-db.png"/>
+[<code>
+<img alt="MariaDb" width="26px" src="https://img.icons8.com/fluency/240/000000/maria-db.png"/>
 </code>](https://mariadb.org/)
+[<code>
 <img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
-[</code>](https://www.jetbrains.com/idea/)
+</code>](https://www.jetbrains.com/idea/)
 [<code>
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 </code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -47,7 +34,7 @@
 <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<code>
-<img alt="Vuetify" src="https://img.icons8.com/windows/240/000000/vuetify.png"/>
+<img alt="Vuetify" width="26px" src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light.svg"/>
 </code>](https://vuetifyjs.com/)
 [<code>
 <img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
@@ -87,3 +74,22 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=irwinv&layout=compact&theme=radical">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irwinv&layout=compact&theme=radical" />
 </a>
+
+---
+
+### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+
+<a href="https://www.linkedin.com/in/v-irwuin-90124838/">
+  <img align="left" alt="Irwuin | LinkedIn" height="22px" src="./SocialLogo/LinkedIn.png" />
+</a>
+<a href="https://stackoverflow.com/users/1130539/irwuin">
+  <img align="left" alt="Irwuin | Stackoverflow" height="22px" src="./SocialLogo/StackOverflow.png" />
+</a>
+
+<br />
+
+<p align=center>
+<em>Don't hesitate to get in touch!</em>
+</p>
+
+---
