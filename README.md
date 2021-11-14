@@ -1,6 +1,6 @@
-### Hi there, I'm Irwuin Villamizar <img src="./Icons/Hi.gif" height="32" />
+## Hi there <img src="./Icons/Hi.gif" height="32" />
 
-## web developer full stack
+### I'm Irwuin a passioned web developer
 
 - 🔭 I’m currently collaborate with REGISTRESECURITE.COM <img alt="REGISTRESECURITE.COM" height="36px" src="https://www.registresecurite.com/wp-content/uploads/2019/05/logo-1.png" /> as Full Stack web developer
 - 🌱 I’m currently learning VueJS & Api Platform
