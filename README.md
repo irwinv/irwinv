@@ -3,7 +3,7 @@
 ### I'm Irwuin a passioned web developer
 
 - 🔭 I’m currently collaborate with REGISTRESECURITE.COM <img alt="REGISTRESECURITE.COM" height="36px" src="https://www.registresecurite.com/wp-content/uploads/2019/05/logo-1.png" /> as Full Stack web developer
-- 🌱 I’m currently learning VueJS & Api Platform
+- 🌱 I’m currently improving my skills on VueJS/TypeScript, API-Platform & PHPUnits
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 - ⚡ Fun fact: I love to play drum, skate, surf and listen metal music \m/
 
