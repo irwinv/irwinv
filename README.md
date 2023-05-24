@@ -9,57 +9,54 @@
 
 ### Languages & Tools:
 
-[<code>
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code>
-<img alt="Symfony" width="26px" src="https://img.icons8.com/color/240/000000/symfony.png" />
-</code>](https://www.symfony.com)
-[<code>
-<img alt="vuejs" width="26px" src="https://img.icons8.com/color/240/000000/vue-js.png">
-</code>](https://vuejs.org)
-[<code>
-<img alt="MariaDb" width="26px" src="https://img.icons8.com/fluency/240/000000/maria-db.png"/>
-</code>](https://mariadb.org/)
-[<code>
-<img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
-</code>](https://www.jetbrains.com/idea/)
-[<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
-<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
-</code>](https://www.typescriptlang.org/)
-[<code>
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
-<img alt="Vuetify" width="26px" src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light.svg"/>
-</code>](https://vuetifyjs.com/)
-[<code>
+<a href="https://git-scm.com/">
+  <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
+</a>
+<a href="https://www.symfony.com">
+  <img alt="Symfony" width="26px" src="https://img.icons8.com/color/240/000000/symfony.png" />
+</a>
+<a href="https://vuejs.org">
+  <img alt="vuejs" width="26px" src="https://img.icons8.com/color/240/000000/vue-js.png">
+</a>
+<a href="https://mariadb.org/">
+  <img alt="MariaDb" width="26px" src="https://img.icons8.com/fluency/240/000000/maria-db.png"/>
+</a>
+<a href="https://www.jetbrains.com/idea/">
+  <img alt="intellij idea" width="26px" src="https://img.icons8.com/color/240/000000/intellij-idea.png" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+</a>
+<a href="https://www.typescriptlang.org/">
+  <img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
+</a>
+<a href="https://vuetifyjs.com/">
+  <img alt="Vuetify" width="26px" src="https://cdn.vuetifyjs.com/docs/images/logos/vuetify-logo-light.svg"/>
+</a>
+<a href="https://www.json.org/json-en.html">
 <img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>](https://www.json.org/json-en.html)
-[<code>
-<img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</code>](https://eslint.org/)
-[<code>
-<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://nodejs.org/en/)
-[<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
-[<code>
-<img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</code>](https://docs.microsoft.com/en-us/windows/terminal/)
-[<code>
-<img alt="Debian" width="26px" src="https://img.icons8.com/color/240/000000/debian.png"/>
-</code>](https://ubuntu.com/)
-[<code>
-<img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
-</code>](https://developer.apple.com/macos/)
-[<code>
-<img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
-</code>](https://www.kernel.org/)
+</a>
+<a href="https://eslint.org/">
+  <img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
+</a>
+<a href="https://nodejs.org/en/">
+  <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
+</a>
+<a href="https://github.com/">
+  <img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
+</a>
+<a href="https://debian.org/">
+  <img alt="Debian" width="26px" src="https://img.icons8.com/color/240/000000/debian.png"/>
+</a>
+<a href="https://developer.apple.com/macos/">
+  <img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
+</a>
+<a href="https://www.kernel.org/">
+  <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
+</a>
 
 ---
 
